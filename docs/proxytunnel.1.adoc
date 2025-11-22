@@ -151,13 +151,6 @@ also be used for other proxy-traversing purposes like proxy bouncing.
     Print version and exit.
 
 
-== ARGUMENTS
-_host_++:++_port_ is the destination hostname and port number combination.
-
-NOTE: Specifying the destination as arguments is exactly the same as
-specifying them using the *-d* or *--dest* option.
-
-
 == USAGE
 Depending on your situation you might want to do any of the following things:
 
